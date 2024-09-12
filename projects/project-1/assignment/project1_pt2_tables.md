@@ -1,16 +1,16 @@
 
 # Table of Contents
 
-1.  [Funct, x](#org6421a7b)
-2.  [iFunct, x](#org5b07ceb)
-3.  [Trans, x](#org37e2c96)
-4.  [Symm, x](#org9f2c8e5)
-5.  [Asym, x](#orgea12af0)
-6.  [Ref, x](#orgd9a0cf9)
-7.  [Irr, x](#orgce2b8a7)
+1.  [Funct, x](#orgedf59ed)
+2.  [iFunct, x](#org3095f27)
+3.  [Trans, x](#orgc377c54)
+4.  [Symm, x](#org9a6f54b)
+5.  [Asym, x](#org835eeec)
+6.  [Ref, x](#org8a75f88)
+7.  [Irr, x](#orga314682)
 
 
-<a id="org6421a7b"></a>
+<a id="orgedf59ed"></a>
 
 # Funct, x
 
@@ -542,7 +542,7 @@
 </table>
 
 
-<a id="org5b07ceb"></a>
+<a id="org3095f27"></a>
 
 # iFunct, x
 
@@ -1065,7 +1065,7 @@
 </table>
 
 
-<a id="org37e2c96"></a>
+<a id="orgc377c54"></a>
 
 # Trans, x
 
@@ -1588,7 +1588,7 @@
 </table>
 
 
-<a id="org9f2c8e5"></a>
+<a id="org9a6f54b"></a>
 
 # Symm, x
 
@@ -2037,7 +2037,7 @@
 </table>
 
 
-<a id="orgea12af0"></a>
+<a id="org835eeec"></a>
 
 # Asym, x
 
@@ -2337,171 +2337,8 @@
 </tbody>
 </table>
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
-
-<colgroup>
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-
-<a id="orgd9a0cf9"></a>
+<a id="org8a75f88"></a>
 
 # Ref, x
 
@@ -2958,7 +2795,7 @@
 </table>
 
 
-<a id="orgce2b8a7"></a>
+<a id="orga314682"></a>
 
 # Irr, x
 
@@ -3032,6 +2869,80 @@
 <td class="org-left">OK</td>
 <td class="org-left">OK</td>
 <td class="org-left">OK</td>
+</tr>
+</tbody>
+</table>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">6</th>
+<th scope="col" class="org-left">Asymm</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Irref</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">A</td>
+<td class="org-left">Ai</td>
+<td class="org-left">B</td>
+<td class="org-left">Bi</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">A</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ai</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">B</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Bi</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
+<td class="org-left">Ok</td>
 </tr>
 </tbody>
 </table>
