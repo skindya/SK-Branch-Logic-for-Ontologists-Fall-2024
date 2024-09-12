@@ -1,16 +1,142 @@
 
 # Table of Contents
 
-1.  [Funct, x](#orgedf59ed)
-2.  [iFunct, x](#org3095f27)
-3.  [Trans, x](#orgc377c54)
-4.  [Symm, x](#org9a6f54b)
-5.  [Asym, x](#org835eeec)
-6.  [Ref, x](#org8a75f88)
-7.  [Irr, x](#orga314682)
+1.  [Authors](#org96552c2)
+2.  [Primary Table](#org2d94bb3)
+3.  [Funct, x](#org40f4ebd)
+4.  [iFunct, x](#orga2c05d9)
+5.  [Trans, x](#org918898a)
+6.  [Symm, x](#orgd02ec3b)
+7.  [Asym, x](#org9d8084e)
+8.  [Ref, x](#org1e4542d)
+9.  [Irr, x](#orgceec1a2)
 
 
-<a id="orgedf59ed"></a>
+<a id="org96552c2"></a>
+
+# Authors
+
+Giacomo, Jisoo, Elena
+
+
+<a id="org2d94bb3"></a>
+
+# Primary Table
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-right">Funct</th>
+<th scope="col" class="org-right">Ifunct</th>
+<th scope="col" class="org-right">Trans</th>
+<th scope="col" class="org-right">Symm</th>
+<th scope="col" class="org-right">Asymm</th>
+<th scope="col" class="org-left">Ref</th>
+<th scope="col" class="org-left">Irref</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Funct</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-right">1</td>
+<td class="org-left">X</td>
+<td class="org-left">X</td>
+</tr>
+
+<tr>
+<td class="org-left">iFunct</td>
+<td class="org-right">2</td>
+<td class="org-right">2</td>
+<td class="org-right">2</td>
+<td class="org-right">2</td>
+<td class="org-right">2</td>
+<td class="org-left">X</td>
+<td class="org-left">X</td>
+</tr>
+
+<tr>
+<td class="org-left">Trans</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">3</td>
+<td class="org-right">3</td>
+<td class="org-right">3</td>
+<td class="org-left">X</td>
+<td class="org-left">X</td>
+</tr>
+
+<tr>
+<td class="org-left">Symm</td>
+<td class="org-right">4</td>
+<td class="org-right">4</td>
+<td class="org-right">4</td>
+<td class="org-right">4</td>
+<td class="org-right">4</td>
+<td class="org-left">X</td>
+<td class="org-left">X</td>
+</tr>
+
+<tr>
+<td class="org-left">Asymm</td>
+<td class="org-right">5</td>
+<td class="org-right">5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">EM</td>
+<td class="org-right">5</td>
+<td class="org-left">X</td>
+<td class="org-left">X</td>
+</tr>
+
+<tr>
+<td class="org-left">Ref</td>
+<td class="org-right">6</td>
+<td class="org-right">6</td>
+<td class="org-right">6</td>
+<td class="org-right">6</td>
+<td class="org-right">JS</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">X</td>
+</tr>
+
+<tr>
+<td class="org-left">Irref</td>
+<td class="org-right">7</td>
+<td class="org-right">7</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">7</td>
+<td class="org-right">7</td>
+<td class="org-left">GDC</td>
+<td class="org-left">7</td>
+</tr>
+</tbody>
+</table>
+
+
+<a id="org40f4ebd"></a>
 
 # Funct, x
 
@@ -542,7 +668,7 @@
 </table>
 
 
-<a id="org3095f27"></a>
+<a id="orga2c05d9"></a>
 
 # iFunct, x
 
@@ -1065,7 +1191,7 @@
 </table>
 
 
-<a id="orgc377c54"></a>
+<a id="org918898a"></a>
 
 # Trans, x
 
@@ -1588,7 +1714,7 @@
 </table>
 
 
-<a id="org9a6f54b"></a>
+<a id="orgd02ec3b"></a>
 
 # Symm, x
 
@@ -2037,7 +2163,7 @@
 </table>
 
 
-<a id="org835eeec"></a>
+<a id="org9d8084e"></a>
 
 # Asym, x
 
@@ -2338,7 +2464,7 @@
 </table>
 
 
-<a id="org8a75f88"></a>
+<a id="org1e4542d"></a>
 
 # Ref, x
 
@@ -2795,7 +2921,7 @@
 </table>
 
 
-<a id="orga314682"></a>
+<a id="orgceec1a2"></a>
 
 # Irr, x
 
